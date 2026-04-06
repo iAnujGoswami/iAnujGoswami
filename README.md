@@ -1,6 +1,6 @@
 ## Hi there, I am Anuj , I Love to Delivering cost-optimal business solutions 👋
 
-- 🔭 I’m currently working on my e-commerce Mango deilvery webapp 
+- 🔭 I’m currently working on my e-commerce Mango delivery webapp 
 - 🌱 continuously on leaning and implementing mode
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
